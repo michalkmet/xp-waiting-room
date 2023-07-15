@@ -1,7 +1,7 @@
 const waitingRoom = require('./waitingRoom');
 
-describe('waitingRoom', () => {
-  it('should return hello', () => {
-    expect(waitingRoom()).toBe('hello');
+describe('Story1', () => {
+  it('When given [], it should throw an exception', () => {
+    expect(() => waitingRoom([])).toThrow();
   });
 });

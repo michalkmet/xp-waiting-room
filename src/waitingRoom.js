@@ -1,5 +1,5 @@
 function waitingRoom() {
-  return 'hello';
+  throw new Error();
 }
 
 module.exports = waitingRoom;
