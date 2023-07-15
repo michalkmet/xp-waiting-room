@@ -4,8 +4,8 @@ There's a waiting room with N chairs set in single row. Chairs are consecutively
 
 For some reason people choose a chair in the following way
 
-Find a place as far from other people as possible
-Find a place as close to exit as possible
+1.Find a place as far from other people as possible
+2.Find a place as close to exit as possible
 All chairs must be occupied before the first person will be served
 
 So it looks like this for 10 chairs and 10 patients
@@ -39,4 +39,4 @@ Story 2: When user pass higher number than 2, it should return the last patient'
 Pomodoro 2
 - ✅ UAT2.2: When user pass 3, it should return 2
 - ✅ UAT2.3: When user pass 4, it should return 3
-- ⚠ UAT2.4: When user pass 5, it should return 4
+- 🚧 UAT2.4: When user pass 5, it should return 4
