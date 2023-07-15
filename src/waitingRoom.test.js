@@ -22,4 +22,7 @@ describe('Story2', () => {
   it('UAT2.2: When user pass 3, it should return 2', () => {
     expect(waitingRoom(3)).toBe(2);
   });
+  it('UAT2.3: When user pass 4, it should return 3', () => {
+    expect(waitingRoom(4)).toBe(3);
+  });
 });

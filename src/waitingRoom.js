@@ -1,8 +1,14 @@
 function waitingRoom(chairs) {
-  if (chairs === 2 || chairs === 3) {
+
+  if (typeof chairs != 'number' || chairs < 2){
+    throw new Error();
+  }
+  if (chairs === 2 || chairs === 3 ) {
     return 2;
   }
-  throw new Error();
+  if (chairs === 4 ) {
+    return 3;
+  }
 }
 
 module.exports = waitingRoom;

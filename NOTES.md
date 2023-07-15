@@ -37,6 +37,6 @@ Story 2: When user pass higher number than 2, it should return the last patient'
 - ✅ UAT2.1: When user pass 2, it should return 2
 
 Pomodoro 2
-- 🚧 UAT2.2: When user pass 3, it should return 2
-- ⚠ UAT2.3: When user pass 4, it should return 3
+- ✅ UAT2.2: When user pass 3, it should return 2
+- ✅ UAT2.3: When user pass 4, it should return 3
 - ⚠ UAT2.4: When user pass 5, it should return 4
