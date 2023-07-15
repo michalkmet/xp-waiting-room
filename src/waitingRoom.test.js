@@ -19,4 +19,7 @@ describe('Story2', () => {
   it('UAT2.1: When user pass 2, it should return 2', () => {
     expect(waitingRoom(2)).toBe(2);
   });
+  it('UAT2.2: When user pass 3, it should return 2', () => {
+    expect(waitingRoom(3)).toBe(2);
+  });
 });
