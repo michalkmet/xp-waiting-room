@@ -10,7 +10,7 @@ All chairs must be occupied before the first person will be served
 
 So it looks like this for 10 chairs and 10 patients
 
-Chairs	1	2	3	4	5	6	7	8	9	10
+Chairs	    1	2	3	4	5	6	7	8	9	10
 Patients	1	7	5	8	3	9	4	6	10	2
 Your task is to find last patient's chair's number.
 
