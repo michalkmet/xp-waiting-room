@@ -30,5 +30,5 @@ Pomodoro 1
 - Story 1: When user pass wrong input, it should throw an exception
 - ✅ UAT1.1: When given [], it should throw an exception
 - ✅ UAT1.2: When given true, it should throw an exception
-- ⚠ UAT1.3: When given 0, it should throw an exception
+- 🚧 UAT1.3: When given 0, it should throw an exception
 - ⚠ UAT1.4: When given 1, it should throw an exception
