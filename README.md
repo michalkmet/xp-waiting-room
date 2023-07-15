@@ -31,7 +31,7 @@ Story 1: When user pass wrong input, it should throw an exception
 - ✅ UAT1.4: When given 1, it should throw an exception
 
 Story 2: When user pass higher number than 2, it should return the last patient's chair number
-- ⚠ UAT2.1: When user pass 2, it should return 2
-- ⚠ UAT2.2: When user pass 3, it should return 2
-- ⚠ UAT2.3: When user pass 4, it should return 3
-- ⚠ UAT2.4: When user pass 5, it should return 4
+- ✅ UAT2.1: When user pass 2, it should return 2
+- ✅ UAT2.2: When user pass 3, it should return 2
+- ✅ UAT2.3: When user pass 4, it should return 3
+- ✅ UAT2.4: When user pass 5, it should return 4

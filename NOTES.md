@@ -40,3 +40,6 @@ Pomodoro 2
 - ✅ UAT2.2: When user pass 3, it should return 2
 - ✅ UAT2.3: When user pass 4, it should return 3
 - 🚧 UAT2.4: When user pass 5, it should return 4
+
+Pomodoro 3
+- ✅ UAT2.4: When user pass 5, it should return 4
