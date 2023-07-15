@@ -10,4 +10,7 @@ describe('Story1', () => {
   it('UAT1.3: When given 0, it should throw an exception', () => {
     expect(() => waitingRoom(0)).toThrow();
   });
+  it('UAT1.4: When given 1, it should throw an exception', () => {
+    expect(() => waitingRoom(1)).toThrow();
+  });
 });
