@@ -14,3 +14,9 @@ describe('Story1', () => {
     expect(() => waitingRoom(1)).toThrow();
   });
 });
+
+describe('Story2', () => {
+  it('UAT2.1: When user pass 2, it should return 2', () => {
+    expect(waitingRoom(2)).toBe(2);
+  });
+});
